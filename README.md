@@ -1,4 +1,4 @@
-Obscape Jigsaw: Unraveling COVID's Effects
+Jobscape Jigsaw: Unraveling COVID's Effects
 Introduction
 The global outbreak of COVID-19 led to unprecedented disruptions across economies, labor markets, and individual livelihoods. As Master’s students analyzing the pandemic's multifaceted implications on employment and job security, this project aims to provide insights into how the job market evolved during this period. By examining patterns in layoffs, the shift towards remote work, and the overall impact on various industries, we hope to offer valuable resources for future preparedness against such global disruptions.
 
